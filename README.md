@@ -1,15 +1,9 @@
-<div align="center">
-  <img src="banner.svg" width="600" alt="AI Robot Banner"/>
-</div>
+# Hi, I'm Souad Khalifeh 👋
 
-<br/>
+**AI Engineer · Software Engineer · Founder of [Dalili](https://dalili.link)**
 
-<h1>Hi, I'm Souad Khalifeh 👋</h1>
 
-<p><strong>AI Engineer · Software Engineer · Founder of <a href="https://dalili.link">Dalili</a></strong></p>
-
-<br/>
-
+<img align="right" width="420" src="banner.svg" alt="AI Robot"/>
 I build AI-powered products: from RAG pipelines and LLM integrations, end-to-end
 voice AI systems (STT → LLM → TTS) and agents. Currently focused on growing
 **Dalili**, an AI SaaS platform for content creators.
@@ -20,11 +14,10 @@ voice AI systems (STT → LLM → TTS) and agents. Currently focused on growing
 - 💬 Ask me about: LLMs, voice pipelines, Arabic NLP, recommendation systems
 - 🌍 Languages: Arabic · English · French
 
-<br/>
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/souadkhalifeh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/souadai_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](souadmkhalifeh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:souadmkhalifeh@gmail.com)
 
+<br clear="right"/>
