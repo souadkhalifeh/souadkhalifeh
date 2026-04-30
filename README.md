@@ -1,18 +1,26 @@
-<img src="banner.svg" align="right" width="340" alt="AI Robot"/>
+<div align="center">
+  <img src="banner.svg" width="600" alt="AI Robot Banner"/>
+</div>
 
+<br/>
 
-# Hi, I'm Souad Khalifeh 👋
-AI Engineer | Software Engineer | Founder of Dalili 
----
+<h1>Hi, I'm Souad Khalifeh 👋</h1>
 
-I build AI-powered products — from RAG pipelines and LLM integrations, end-to-end
-voice AI systems (STT → LLM → TTS) and agents. Currently focused on growing Dalili, an AI SaaS
-platform for content creators.
+<p><strong>AI Engineer · Software Engineer · Founder of <a href="https://yourdalililink.com">Dalili</a></strong></p>
 
-- 🔭 Currently building: **[Dalili](https://dalili.link)** — AI tools for creators
+<br/>
+
+I build AI-powered products: from RAG pipelines and LLM integrations, end-to-end
+voice AI systems (STT → LLM → TTS) and agents. Currently focused on growing
+**Dalili**, an AI SaaS platform for content creators.
+
+- 🔭 Currently building: **[Dalili](https://yourdalililink.com)** — AI tools for creators
 - 🤖 Expertise: RAG · LLMs · Voice AI (STT/TTS) · NLP · Agents · MLOps
 - 🌱 Exploring: agentic AI, Claude Code, multimodal systems
 - 💬 Ask me about: LLMs, voice pipelines, Arabic NLP, recommendation systems
+- 🌍 Languages: Arabic · English · French
+
+<br/>
 
 ## Let's connect
 
